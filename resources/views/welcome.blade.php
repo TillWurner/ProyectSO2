@@ -2,7 +2,7 @@
 <html lang="en" >
     <head>
       <meta charset="UTF-8">
-      <title>Proyectoa</title>
+      <title>Proyectote juejue</title>
       <link rel="stylesheet" href={{ asset('contact-us/contactus.css') }}>
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
     </head>
