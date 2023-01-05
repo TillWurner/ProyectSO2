@@ -2,7 +2,7 @@
 <html lang="en" >
     <head>
       <meta charset="UTF-8">
-      <title>Proyecto Piolanga</title>
+      <title>Proyectoa</title>
       <link rel="stylesheet" href={{ asset('contact-us/contactus.css') }}>
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
     </head>
@@ -36,7 +36,7 @@
                 <div class="face face2">
                     <div class="content">
                         <p>
-                            Primero se debe diseñar la estructura del sistema o software que se desea desarrollar, 
+                            Primero se debe diseñar la estructura del sistema o software que se desea desarrollar,
                             es primordial empezar por este paso al momento de desarrollar softwares.
                         </p>
                     </div>
